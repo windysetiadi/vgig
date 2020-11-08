@@ -4,49 +4,49 @@
         {
             "id": "applaude",
             "label": "applaude",
-            "color": "#ffadad",
+            "color": "#4c4c4c",
             "logText": "is applauding."
           },
           {
             "id": "breath",
             "label": "breath",
-            "color": "#ffd6a5",
+            "color": "#666666",
             "logText": "is breathing."
           },
           {
             "id": "cry",
             "label": "cry",
-            "color": "#fffffc",
+            "color": "#7f7f7f",
             "logText": "is crying."
           },
           {
             "id": "sneeze",
             "label": "sneeze",
-            "color": "#caffbf",
+            "color": "#999999",
             "logText": "is sneezing."
           },
           {
             "id": "smile",
             "label": "smile",
-            "color": "#9bf6ff",
+            "color": "#b2b2b2",
             "logText": "is smiling."
           },
           {
             "id": "dance",
             "label": "dance",
-            "color": "#a0c4ff",
+            "color": "#cccccc",
             "logText": "is dancing."
           },
           {
             "id": "sweat",
             "label": "sweat",
-            "color": "#ffc6ff",
+            "color": "#e5e5e5",
             "logText": "is sweating."
           },
           {
             "id": "singAlong",
             "label": "sing along",
-            "color": "#bdb2ff",
+            "color": "#ffffff",
             "logText": "is singing along."
           }
     ]
